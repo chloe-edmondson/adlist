@@ -38,15 +38,6 @@ fmovies.to##+js(acis, XMLHttpRequest)
 
 ! Brave IOS specific filters
 
-! Counter Peter Lowes Filters
-||doubleclick.net^$badfilter
-||googleadservices.com^$badfilter
-
-! coveryourtracks.eff.org
-||trackersimulator.org^$subdocument
-||eviltracker.net^$subdocument
-||do-not-tracker.org^$subdocument
-
 ! Prevent googlefunding error message (ios)
 ||fundingchoicesmessages.google.com^$third-party,badfilter
 
