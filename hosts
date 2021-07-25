@@ -51,12 +51,6 @@ fmovies.to##+js(acis, XMLHttpRequest)
 ! Facebook
 ! Facebook Plugins (3rd-party embedded plugins)
 ||facebook.com/plugins/$third-party,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
-! Twitter
-||platform.twitter.com^$third-party,domain=~tweetdeck.com|~twitter.com|~twitter.jp
-! Linkedin
-||linkedin.com^$third-party
-! Outbrain
-||outbrain.com^$third-party,domain=~sphere.com
 
 
 
