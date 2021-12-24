@@ -68,5 +68,6 @@ fmovies.to##+js(acis, XMLHttpRequest)
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 adtago.s3.amazonaws.com
 
 
