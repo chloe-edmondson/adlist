@@ -1,3 +1,21 @@
 
 0.0.0.0 graph.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 external-lhr0-1.xx.fbcdn.net
+0.0.0.0 external-lhr1-1.xx.fbcdn.net
+0.0.0.0 external-lhr10-1.xx.fbcdn.net
+0.0.0.0 external-lhr2-1.xx.fbcdn.net
+0.0.0.0 external-lhr3-1.xx.fbcdn.net
+0.0.0.0 external-lhr4-1.xx.fbcdn.net
+0.0.0.0 external-lhr5-1.xx.fbcdn.net
+0.0.0.0 external-lhr6-1.xx.fbcdn.net
+0.0.0.0 external-lhr7-1.xx.fbcdn.net
+0.0.0.0 external-lhr8-1.xx.fbcdn.net
+0.0.0.0 external-lhr9-1.xx.fbcdn.net
+0.0.0.0 fbcdn-creative-a.akamaihd.net
+0.0.0.0 scontent-lhr3-1.xx.fbcdn.net
