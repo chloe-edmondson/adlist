@@ -6,3 +6,11 @@ mqtt-mini.facebook.com
 sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
 tlu.dl.delivery.mp.microsoft.com
+
+#Google Maps and other Google services
+clients4.google.com
+clients2.google.com 
+
+#YouTube history
+s.youtube.com 
+video-stats.l.google.com
