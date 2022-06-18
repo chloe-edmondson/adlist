@@ -1,2 +1,8 @@
-0.0.0.0 graph.facebook.com
-0.0.0.0 mqtt-mini.facebook.com
+#facebook
+graph.facebook.com
+mqtt-mini.facebook.com
+
+#windows update
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+tlu.dl.delivery.mp.microsoft.com
