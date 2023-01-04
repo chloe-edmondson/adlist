@@ -75,6 +75,13 @@ fmovies.to##+js(acis, XMLHttpRequest)
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
-
+0.0.0.0 advertising.twitter.com
+0.0.0.0 amazonaax.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com 
 
 
