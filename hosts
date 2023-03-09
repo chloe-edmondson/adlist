@@ -84,3 +84,6 @@ fmovies.to##+js(acis, XMLHttpRequest)
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com 
 0.0.0.0 amazonaax.com
+
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 appmetrica.yandex.ru
