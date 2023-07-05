@@ -69,4 +69,18 @@ amazonaax.com
 browser.sentry-cdn.com
 appmetrica.yandex.ru
 
-#Amazon
+#from adblock tester (https://d3ward.github.io/toolz/adblock.html)
+
+#amazon
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
+
+# Google Ads
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
+
