@@ -19,3 +19,12 @@ video-stats.l.google.com
 #channel4
 
 2a7e9.v.fwmrm.net
+
+
+
+# xbox achievements 
+
+v20.events.data.microsoft.com 
+watson.telemetry.microsoft.com
+web.vortex.data.microsoft.com
+v10.events.data.microsoft.com 
