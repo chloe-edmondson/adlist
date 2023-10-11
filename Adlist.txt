@@ -334,3 +334,16 @@ webstat.channel4.com
 webstats.channel4.com
 
 
+
+#uk tv adlist
+
+cdn.ss.anno.channel4.com
+webstats.channel4.com
+tom.itv.com
+toots-a.akamaihd.net
+c5ads.ott.skymedia.co.uk
+p.videologygroup.com
+cdn.http.anno.channel4.com
+securecdn.videologygroup.com
+monitor.channel4.com
+dsa.moatads.com
