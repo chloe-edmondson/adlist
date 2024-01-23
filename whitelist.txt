@@ -1,6 +1,7 @@
 #facebook
 graph.facebook.com
 mqtt-mini.facebook.com
+b-graph.facebook.com
 
 #windows update
 sls.update.microsoft.com.akadns.net
