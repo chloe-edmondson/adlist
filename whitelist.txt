@@ -34,3 +34,26 @@ v10.events.data.microsoft.com
 
 
 cdns.eu1.gigya.com
+
+
+#from firebog @WaLLy3K on  Github
+
+#Link Shortners (Openphish)
+
+    t.ly
+    www.bit.ly
+    bit.ly
+    ow.ly
+    tinyurl.com
+#EA / Origin (AdAway)
+
+cdn.optimizely.com #(Used by Origin for content delivery)
+split.io #(Used by EA Desktop. Symptom: Missing download button)
+
+#Blocked by various lists
+s.shopify.com
+
+
+
+
+
