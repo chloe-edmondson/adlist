@@ -53,7 +53,7 @@ split.io #(Used by EA Desktop. Symptom: Missing download button)
 #Blocked by various lists
 s.shopify.com
 
+#quickbooks
 
-
-
+links.notification.intuit.com/
 
