@@ -55,5 +55,5 @@ s.shopify.com
 
 #quickbooks
 
-links.notification.intuit.com/
+links.notification.intuit.com
 
