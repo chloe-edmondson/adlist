@@ -58,3 +58,5 @@ s.shopify.com
 links.notification.intuit.com
 
 dognzb.cr
+
+newsgroup.ninja
