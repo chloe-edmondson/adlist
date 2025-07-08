@@ -349,6 +349,7 @@ monitor.channel4.com
 dsa.moatads.com
 
 #from https://adblock.turtlecute.org
+#Adds
 
 #Amazon 
 
@@ -361,3 +362,89 @@ pagead2.googlesyndication.com
 adservice.google.com
 pagead2.googleadservices.com
 afs.googlesyndication.com
+
+#Doubleclick.net
+
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+
+#Adcolony
+
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+
+#Media.net
+
+static.media.net
+media.net
+adservetx.media.net
+
+
+#Analytics
+
+#Google Analytics
+
+analytics.google.com
+click.googleanalytics.com
+google-analytics.com
+ssl.google-analytics.com
+
+#Hotjar
+
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+surveys.hotjar.com
+careers.hotjar.com
+events.hotjar.io
+
+#MouseFlow
+
+mouseflow.com
+cdn.mouseflow.com
+o2.mouseflow.com
+gtm.mouseflow.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+
+#FreshWorks
+
+freshmarketer.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+
+#Stats WP Plugin
+
+stats.wp.com
+
+#Luckyorange
+
+luckyorange.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
+
+#Error Trackers
+
+# Bugsnag
+
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+#Sentry
+
+browser.sentry-cdn.com
+app.getsentry.com
