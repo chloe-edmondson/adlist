@@ -347,3 +347,17 @@ cdn.http.anno.channel4.com
 securecdn.videologygroup.com
 monitor.channel4.com
 dsa.moatads.com
+
+#from https://adblock.turtlecute.org
+
+#Amazon 
+
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+
+#Google ads
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
